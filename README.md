@@ -16,8 +16,8 @@ O EcoConnect é uma aplicação desenvolvida para incentivar práticas sustentá
 - **Igor Akira Bortolini Tateishi**: Responsável pela documentação do projeto.
 
 ## **Links Relevantes**
-- **Proposta Tecnológica**: [Video com código](https://www.youtube.com/watch?v=rJE06JlokVc)
-- **Pitch do Projeto**: [Pitch](https://youtu.be/oE9rGbwxfS0)
+- **Proposta Tecnológica**: [Video com código](https://youtu.be/oE9rGbwxfS0)
+- **Pitch do Projeto**: [Pitch](https://www.youtube.com/watch?v=rJE06JlokVc)
 - **Link do Deploy**: [Link](https://java-global.onrender.com/)
 
 ## **Problema**
