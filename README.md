@@ -18,6 +18,7 @@ O EcoConnect é uma aplicação desenvolvida para incentivar práticas sustentá
 ## **Links Relevantes**
 - **Proposta Tecnológica**: [Video com código](link aqui)
 - **Pitch do Projeto**: [Pitch](link aqui)
+- **Link do Deploy**: [Link](https://java-global.onrender.com/)
 
 ## **Problema**
 Hoje, muitas pessoas desejam adotar práticas sustentáveis, mas enfrentam barreiras como falta de conhecimento, soluções complexas ou falta de motivação. O EcoConnect foi projetado para simplificar esse processo, tornando o aprendizado sustentável mais acessível e engajador.
