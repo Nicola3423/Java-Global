@@ -11,9 +11,9 @@ O EcoConnect é uma aplicação desenvolvida para incentivar práticas sustentá
 - **Histórico e Relatórios**: Acompanhamento de interações e atividades realizadas.
 
 ## **Integrantes do Grupo**
-- **Nicola Monte Cravo Garofalo**: Desenvolvedor do código-fonte.
-- **Willyam Santos Sousa**: Desenvolvedor do código-fonte.    
-- **Igor Akira Bortolini Tateishi**: Responsável pela documentação do projeto.
+- **Igor Akira | RM 554227 | Turma: 2TDSPS**: Desenvolvedor do código-fonte.
+- **Nicola Monte | RM 553991 | Turma: 2TDSPR**: Desenvolvedor do código-fonte.    
+- **Willyam Santos | RM 554244 | Turma: 2TDSZ**: Responsável pela documentação do projeto.
 
 ## **Links Relevantes**
 - **Proposta Tecnológica**: [Video com código](https://youtu.be/oE9rGbwxfS0)
